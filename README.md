@@ -5,7 +5,8 @@
 An interactive Power BI Sales &amp; Operations Dashboard built to analyze quick-commerce performance across orders, sales, delivery, ratings, cancellations, cities, zones, and product categories.  The project demonstrates practical use of Power Query, DAX, data modeling, KPI cards, slicers, bookmarks, buttons, and interactive visualizations.
 
 ## 🖼️ Dashboard Preview
-https://github.com/mahakdhyani/Blinkit-Sales-Dashboard/blob/main/Blinkit%20Sales%20Dashboard%20Image.png
+<img width="676" height="362" alt="Blinkit Sales Dashboard Image" src="https://github.com/user-attachments/assets/dba1b984-b42a-4c97-a446-531143f4124f" />
+
 
 ## 🎯 Key KPIs
 The dashboard currently highlights the following KPIs:

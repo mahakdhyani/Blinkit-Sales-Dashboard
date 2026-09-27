@@ -4,8 +4,8 @@
 
 An interactive Power BI Sales &amp; Operations Dashboard built to analyze quick-commerce performance across orders, sales, delivery, ratings, cancellations, cities, zones, and product categories.  The project demonstrates practical use of Power Query, DAX, data modeling, KPI cards, slicers, bookmarks, buttons, and interactive visualizations.
 
-🖼️ Dashboard Preview
-
+## 🖼️ Dashboard Preview
+https://github.com/mahakdhyani/Blinkit-Sales-Dashboard/blob/main/Blinkit%20Sales%20Dashboard%20Image.png
 
 ## 🎯 Key KPIs
 The dashboard currently highlights the following KPIs:
@@ -36,8 +36,8 @@ The top KPI cards provide an at-a-glance summary of:
 - Total Sales
 - Average Order Value
 - Average Delivery Time
-- - Average Ratings
-Cancellation Rate
+- Average Ratings
+- Cancellation Rate
 
 3. City-Level Net Sales
 
@@ -66,7 +66,7 @@ The Net Sales by Month Name visual provides a time-based view of
 sales and can be used to identify changes in sales performance across
 months.
 
-7. Category Performance
+6. Category Performance
    
 The Net Sales by Category chart compares product categories
 including:
